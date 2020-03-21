@@ -1,2 +1,2 @@
 # Python
-python the hard way 
+Most of the codes are from python the hard way 
